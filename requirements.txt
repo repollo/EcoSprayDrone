@@ -1,0 +1,8 @@
+numpy
+opencv-python
+# RPi.GPIO
+# picamera
+tflite-support
+matplotlib
+tensorflow
+tensorflow-hub
